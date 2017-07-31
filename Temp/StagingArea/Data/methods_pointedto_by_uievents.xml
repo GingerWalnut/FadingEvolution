@@ -1,0 +1,51 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="StartButton">
+			<method name="Click"/>
+		</type>
+		<type fullname="HighScoreButton">
+			<method name="Click"/>
+		</type>
+		<type fullname="WorldType">
+			<method name="ChangeToNormal"/>
+			<method name="ChangeToArchipelago"/>
+			<method name="ChangeToIslands"/>
+			<method name="ChangeToContinents"/>
+			<method name="ChangeToFlat"/>
+		</type>
+		<type fullname="InstructionsButton">
+			<method name="Click"/>
+		</type>
+		<type fullname="ExitButton">
+			<method name="Click"/>
+			<method name="Click"/>
+		</type>
+		<type fullname="Engine">
+			<method name="SlowDoomsdayButtonClick"/>
+			<method name="RemoveCostButtonClick"/>
+			<method name="Restart"/>
+			<method name="TogglePaused"/>
+			<method name="PerfectColorButtonClick"/>
+		</type>
+	</assembly>
+	<assembly fullname="Assembly-CSharp-firstpass">
+		<type fullname="GameJolt.UI.Controllers.SignInWindow">
+			<method name="Dismiss"/>
+			<method name="Submit"/>
+		</type>
+		<type fullname="GameJolt.UI.Controllers.LeaderboardsWindow">
+			<method name="Dismiss"/>
+		</type>
+		<type fullname="GameJolt.UI.Controllers.TrophiesWindow">
+			<method name="Dismiss"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+		</type>
+	</assembly>
+</linker>

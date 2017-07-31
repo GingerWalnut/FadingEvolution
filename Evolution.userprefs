@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Engine\Engine.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Map\Map.cs" Line="152" Column="6" />
+      <File FileName="Assets\Scripts\Map\Tile.cs" Line="41" Column="5" />
+      <File FileName="Assets\Scripts\Engine\Engine.cs" Line="879" Column="2" />
+      <File FileName="Assets\Scripts\Creature\Creature.cs" Line="246" Column="26" />
+      <File FileName="Assets\Scripts\UI\StartButton.cs" Line="9" Column="56" />
+      <File FileName="Assets\Scripts\UI\WorldType.cs" Line="42" Column="10" />
+      <File FileName="Assets\Scripts\UI\ExitButton.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\UI\InstructionsButton.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\Music.cs" Line="15" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
